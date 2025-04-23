@@ -14,5 +14,10 @@ NEXT STEPS!
 
 3. ./sandpileisntall.sh (run the installation file)
    
-These 3 easy steps will get sanpile on archlinux now you can call the args in the termianl with the player.exe and token provided to launch player and play games
-Easy gui boot for games may or may not come soon
+These 3 easy steps will get sanpile on archlinux 
+
+NOTE: If you are using a browser and it didint automatically create the sandpile:legacy// launcher for ur browser you can call the args in the termianl with the player.exe and token provided to launch player and play games 
+
+Example:
+cd (dir of sandpile player.exe)
+wine player.exe "temporary token" 
