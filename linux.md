@@ -1,5 +1,5 @@
-# Sandpile-Bootstrapper-Arch
-Get sandpile working on arch linux 
+# Sandpile-Bootstrapper
+Get sandpile working on linux  
 
 Steps:
 ---------
@@ -8,7 +8,7 @@ wget https://gist.githubusercontent.com/MixaMega/c93396dfb432cc74cec8358fb1ef2d0
 
 NEXT STEPS!
 ------------
-1. sudo pikaur -S wine-staging (install pikar from the aur to use pikar or use yay)
+1. install wine
 
 2.  chmod +x ./sandpileisntall.sh (in the same dir u ran the curl)
 
